@@ -2,4 +2,4 @@ test
 ====
 
 test
-I love cats.
+I love :coffee.
